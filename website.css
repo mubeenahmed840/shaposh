@@ -1,0 +1,140 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.top-bar{
+    background-color: black;
+    color: aliceblue;
+    font-size: small;
+    marquee p{padding-top: 10px;}
+}
+.logo-bar{
+    .logo{
+        margin-top: 15px;
+        padding-left: 40%;
+        margin-bottom: 15px;}
+}
+.section-bar {
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    height: 30px;
+    line-height: 20px;
+    font-size: large;
+    .abayas{ margin-top: 5px;
+         float: left;
+        margin-left: 60px;}
+    .inventory-style{ margin-top: 5px;
+        float: left;
+        margin-left: 60px;}
+    .new-arival{ margin-top: 5px;
+       float: left;
+        margin-left: 60px;}
+    .umrah{ margin-top: 5px;
+        float: left;
+        margin-left: 60px;}
+    .hijabs{ margin-top: 5px;
+        float: left;
+        margin-left: 60px;
+    }
+    .kids{ margin-top: 5px;
+        float: left;
+        margin-left: 60px;}
+    .moomy{ margin-top: 5px;
+        float: left;
+        margin-left: 60px;}
+    .blog{ margin-top: 5px;
+        float: right;
+        margin-right: 100px;}
+    .sale{ margin-top: 5px;
+            float: right;
+            margin-right: 60px;}
+}
+.posters{
+    overflow: hidden;
+   .cover1{ float: left;
+    padding: 10px;
+    margin-top: 20px;}
+    .cover2{ float: left;
+        padding: 10px;
+        margin-top: 20px;}
+    .cover3{float: left;
+        padding: 10px;
+        margin-top: 20px;}
+}
+.section1{ 
+    padding: 50px;
+    text-align: center;
+    h2{
+        font-size: larger;
+        font-style:initial;}
+button{
+    border: black;
+    background-color: white;
+  color: black;
+  border: 2px solid;
+    font-size: 18px;}
+}
+.new-arival-section{
+    margin-top: 0px;
+    overflow: hidden;
+   .room1{ float: left;
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 20px;}
+    .room2{ float: left;
+        padding: 10px;
+        margin-left: 10px;
+        margin-top: 20px;}
+    .room3{float: left;
+        padding: 10px;
+        margin-left: 10px;
+        margin-top: 20px;}
+    .room4{float: left;
+            padding: 10px;
+            margin-left: 10px;
+            margin-top: 20px;}
+    .room-data{text-align: center;}
+}
+.section2{ 
+    margin-top: 0%;
+    padding: 5%;
+    text-align: center;
+    h2{
+        font-size: larger;
+        font-style:initial;}
+button{
+    border: black;
+    background-color: white;
+  color: black;
+  border: 2px solid;
+    font-size: 18px;}
+}
+h3{
+    padding: 10px;
+    text-align: center;
+}
+.photos{
+    overflow: hidden;
+    .cover1{ float: left;}
+     .cover2{ float: left; margin-left: 3px;}
+     .cover3{float: left; margin-left: 3px }
+    .cover4{ float: left; margin-left: 3px}
+    .cover5{float: right;}
+}
+.information-bar{
+    overflow: hidden;
+    .infor{ 
+        padding-top: 50px;
+        margin-left: 20px;
+        font-size: large;
+        float: left;
+}
+    .newsletter{
+        margin-top: 50px;
+        margin-left: 30%;
+        .sumit{
+            width: 100px; height: 20px;
+            background-color: black;
+            color: whitesmoke; } }
+}
